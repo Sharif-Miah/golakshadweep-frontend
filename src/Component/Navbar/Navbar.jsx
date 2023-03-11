@@ -14,10 +14,10 @@ const Navbar = () => {
       <Link to='/home'>Home</Link>
       <Link to='/findreservations'>Find Reservations</Link>
         <Link to='/Packages' className='px-3'>Packages</Link>
-        <Link to='aboutlakshadweep' className='px-3'>About Lakshadweep</Link>
-        <Link to='aboutus' className='px-3'>About Us</Link>
-        <Link to='gol' className='px-3'>Gol</Link>
-        <Link to='support' className='px-3'>Support</Link>
+        <Link to='/aboutlakshadweep' className='px-3'>About Lakshadweep</Link>
+        <Link to='/aboutus' className='px-3'>About Us</Link>
+        <Link to='/gol' className='px-3'>Gol</Link>
+        <Link to='/support' className='px-3'>Support</Link>
       </ul>
     </div>
 
